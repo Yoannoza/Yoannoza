@@ -138,10 +138,8 @@ Official instructor — training the next generation of Beninese engineers in AI
 | | |
 |---|---|
 | **🏆 Winner** | Hackathon AI4CKD (IFRI) — Deployed medical AI solution |
-| **🏆 Winner** | Hackathon Celtiis — Full-stack application |
 | **🌍 1000h+** | Fon language audio dataset via Hackathon Isheero |
 | **🤖 Instructor** | TekBot Robotics Challenge 2025 |
-| **📚 Research** | Bachelor Thesis — Advanced AI research (in progress) |
 
 ---
 
